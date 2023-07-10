@@ -4,7 +4,7 @@
 
 // eslint-disable-next-line no-unused-vars
 const config = {
-  style: 'mapbox://styles/wannes-vlaanderen/cljr9q97v013g01qy4tp8e1qe',
+  style: 'mapbox://styles/wannes-vlaanderen/cljr57cuw012001o44tm7g8p5',
   accessToken:
     'pk.eyJ1Ijoid2FubmVzLXZsYWFuZGVyZW4iLCJhIjoiY2xqb2Q0MDUxMDhjeDNtcGIxNjF4a2lrbyJ9.TmBAlCtIR-SS3YXwXvUJlA',
   CSV: 'https://docs.google.com/spreadsheets/d/1pl7qzIDsJKbphDnttGxdPnezsv_x65vBhflATXVacDo/gviz/tq?tqx=out:csv&sheet=Sheet1',
