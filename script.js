@@ -589,7 +589,7 @@ class LogoVlaanderen {
   }
 }
 map.addControl(new LogoVlaanderen(), "top-left")
-g
+
 class Legenda {
   onAdd(map) {
     this._map = map;
