@@ -13,7 +13,7 @@ const config = {
   title: 'Gebiedsprogramma Genk-Zuid',
   description:
     'Aan te vullen',
-  sideBarInfo: ['HuidigeTitel', 'Terreinfunctie'],
+  sideBarInfo: ['HuidigeTitel', ''],
   popupInfo: ['HuidigeTitel'],
   popupInfo2: ['Link'],
   popupInfo3: ['Description'],
