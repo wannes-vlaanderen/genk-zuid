@@ -12,6 +12,7 @@ function createSidebar() {
   div1.id = "div1"
   const div2 = document.createElement("div")
   div2.classList.add('flex-child', 'w-full', 'w360-ml', 'absolute', 'static-ml', 'left', 'bottom')
+  div2.style.backgroundColor = "#f5f4ec"
   const sidebar = document.createElement("div")
   sidebar.id = 'sidebarA'
   sidebar.classList.add('flex-parent', 'flex-parent--column-ml', 'flex-parent--center-main', 'py12', 'px12')
