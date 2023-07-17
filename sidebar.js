@@ -18,11 +18,11 @@ function createSidebar() {
   const title = document.createElement("h3")
   title.id = "title"
   title.classList.add('txt-l-ml', 'txt-m', 'txt-bold', 'mb6', 'mr0-ml', 'mr24', 'align-center', 'block')
-  title.style.backgroundColor = "#dddddd"
+  //title.style.backgroundColor = "#dddddd"
   const description = document.createElement("p")
   description.id = 'description'
   description.classList.add('txt-s', 'py12', 'none', 'block-ml')
-  description.style.backgroundColor = "#dddddd"
+  //description.style.backgroundColor = "#dddddd"
   
   const buttonDiv = document.createElement("div")
   buttonDiv.classList.add('flex-parent', 'flex-parent--center-main', 'relative-ml', 'absolute', 'right', 'top', 'mt0-ml', 'px6')
