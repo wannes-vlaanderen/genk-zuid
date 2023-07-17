@@ -20,11 +20,11 @@ function createSidebar() {
   const title = document.createElement("h3")
   title.id = "title"
   title.classList.add('txt-l-ml', 'txt-m', 'txt-bold', 'mb6', 'mr0-ml', 'mr24', 'align-center', 'block')
-  //title.style.backgroundColor = "#dddddd"
+  title.style.fontSize = 24
   const description = document.createElement("p")
   description.id = 'description'
   description.classList.add('txt-s', 'py12', 'none', 'block-ml')
-  //description.style.backgroundColor = "#dddddd"
+  description.style.fontSize = 13
   
   const buttonDiv = document.createElement("div")
   buttonDiv.classList.add('flex-parent', 'flex-parent--center-main', 'relative-ml', 'absolute', 'right', 'top', 'mt0-ml', 'px6')
