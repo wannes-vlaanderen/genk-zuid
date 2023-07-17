@@ -20,6 +20,7 @@ function createSidebar() {
   const sidebar = document.createElement("div")
   sidebar.id = 'sidebarA'
   sidebar.classList.add('flex-parent', 'flex-parent--column-ml', 'flex-parent--center-main', 'theme', 'py12', 'px12')
+  sidebar.backgroundColor = "#cccccc"
   const title = document.createElement("h3")
   title.id = "title"
   title.classList.add('txt-l-ml', 'txt-m', 'txt-bold', 'mb6', 'mr0-ml', 'mr24', 'align-center', 'block')
