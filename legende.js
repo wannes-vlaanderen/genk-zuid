@@ -1,4 +1,4 @@
-const legende = {
+const legendeConfig = {
   "#e8da11": "Nieuw Bedrijventerrein",
   "#3d4f71": "Deelproject herstructurering",
   "#b0a8c2": "Open Ruimte",
@@ -11,7 +11,7 @@ class Legenda {
     this._map = map;
     this._container = document.createElement('div');
     this._container.className = 'mapboxgl-ctrl';
-    for (const [color, name] of legende) {
+    for (const [color, name] of legendeConfig) {
       this._container.appendChild(this.newEntry(color, name));
     }
     this._container.width = 120
