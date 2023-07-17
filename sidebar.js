@@ -13,7 +13,7 @@ function createSidebar() {
   const div2 = document.createElement("div")
   div2.classList.add('flex-child', 'w-full', 'w360-ml', 'absolute', 'static-ml', 'left', 'bottom')
   const div3 = document.createElement("div")
-  div3.classList.add('flex-parent', 'flex-parent--column', 'viewport-third')
+  div3.classList.add('flex-parent', 'flex-parent--column')
   const div4 = document.createElement("div")
   div4.classList.add('flex-child', 'flex-child--grow')
   const sidebar = document.createElement("div")
