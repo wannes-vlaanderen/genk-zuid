@@ -11,7 +11,8 @@ function createSidebar() {
   div1.classList.add('flex-parent', 'viewport-full', 'relative', 'scroll-hidden')
   div1.id = "div1"
   const div2 = document.createElement("div")
-  div2.classList.add('flex-child', 'w-full', 'w360-ml', 'absolute', 'static-ml', 'left', 'bottom', 'bg-red')
+  div2.classList.add('flex-child', 'w-full', 'w360-ml', 'absolute', 'static-ml', 'left', 'bottom')
+  div2.style.backgroundColor = "#cccccc"
   const div3 = document.createElement("div")
   div3.classList.add('flex-parent', 'flex-parent--column')
   const div4 = document.createElement("div")
