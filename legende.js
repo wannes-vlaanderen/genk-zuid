@@ -1,8 +1,8 @@
 const legende = {
   "#e8da11": "Nieuw Bedrijventerrein",
   "#3d4f71": "Deelproject herstructurering",
-  "#b0a8c2": "Open Ruimte",
-  "#2b6938": "Herstructuring en Inbreiding",
+  "#b0a8c2": "Herstructuring en Inbreiding",
+  "#2b6938": "Open Ruimte",
   "#f8b06d": "Infrastructuurproject"
 }
 
