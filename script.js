@@ -10,7 +10,7 @@ const config = {
   CSV: 'https://docs.google.com/spreadsheets/d/1pl7qzIDsJKbphDnttGxdPnezsv_x65vBhflATXVacDo/gviz/tq?tqx=out:csv&sheet=Sheet1',
   center: [5.524,50.928],
   zoom: 12,
-  title: 'Gebiedsprogramma Genk-Zuid',
+  title: 'Gebiedsprogramma\nGenk-Zuid',
   description:
     'Aan te vullen',
   sideBarInfo: ['HuidigeTitel'],
