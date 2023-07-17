@@ -32,7 +32,7 @@ function createSidebar() {
   buttonDiv.id = "buttonDiv"
   const listing = document.createElement("div")
   listing.id = 'listings'
-  listing.classList.add('flex-child', 'viewport-twothirds', 'py12', 'px12', 'listings', 'scroll-auto', 'bg-white')
+  listing.classList.add('flex-child', 'py12', 'px12', 'listings', 'scroll-auto', 'bg-white')
   
   sidebar.appendChild(title)
   sidebar.appendChild(description)
