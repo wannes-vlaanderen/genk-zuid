@@ -15,7 +15,8 @@ function createSidebar() {
   div2.style.backgroundColor = "#f5f4ec"
   const sidebar = document.createElement("div")
   sidebar.id = 'sidebarA'
-  sidebar.classList.add('flex-parent', 'flex-parent--column-ml', 'flex-parent--center-main', 'py12', 'px12')
+  sidebar.classList.add('flex-parent', 'flex-parent--column-ml', 'flex-parent--center-main', 'py12', 'px12'):
+  sidebar.style.backgroundColor = "#f5f4ec"
   const title = document.createElement("h3")
   title.id = "title"
   title.classList.add('txt-l-ml', 'txt-m', 'txt-bold', 'mb6', 'mr0-ml', 'mr24', 'align-center', 'block')
