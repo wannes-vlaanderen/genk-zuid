@@ -11,7 +11,7 @@ function createSidebar() {
   div1.classList.add('flex-parent', 'viewport-full', 'relative', 'scroll-hidden')
   div1.id = "div1"
   const div2 = document.createElement("div")
-  div2.classList.add('flex-child', 'w-full', 'w360-ml', 'absolute', 'static-ml', 'left', 'bottom')
+  div2.classList.add('flex-child', 'w-full', 'w360-ml', 'absolute', 'static-ml', 'left', 'bottom', 'bg-red')
   const div3 = document.createElement("div")
   div3.classList.add('flex-parent', 'flex-parent--column')
   const div4 = document.createElement("div")
@@ -41,7 +41,7 @@ function createSidebar() {
   
   div4.appendChild(sidebar)
   div3.appendChild(div4)
-  div2.appendChild(div3)
+  div2.appendChild(sidebar)
   div1.appendChild(div2)
   
   const map = document.getElementById('map')
