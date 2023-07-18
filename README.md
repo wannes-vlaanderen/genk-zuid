@@ -1,4 +1,4 @@
-## Gebiedsprogramma Genk-Zuid
+## Gebiedsprogramma Poort-Limburg
 
 Deze repository bevat een klikbaar kaartje. Een template voor het maken van klikbare kaartjes vind je [hier](https://codepen.io/wannes-vlaanderen/pen/oNQGWxx).
 
