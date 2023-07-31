@@ -1,6 +1,6 @@
 config = {
-  style: 'mapbox://styles/wannes-vlaanderen/cljr57cuw012001o44tm7g8p5',
-  accessToken: 'pk.eyJ1Ijoid2FubmVzLXZsYWFuZGVyZW4iLCJhIjoiY2xqb2Q0MDUxMDhjeDNtcGIxNjF4a2lrbyJ9.TmBAlCtIR-SS3YXwXvUJlA',
+  style: 'mapbox://styles/gop-vlaanderen/clkqo6trb00ml01qp8hfc1muz',
+  accessToken: 'pk.eyJ1IjoiZ29wLXZsYWFuZGVyZW4iLCJhIjoiY2xrbWUxd3JxMDUzMTNmcXM5b3BmZzlpbiJ9.aBM2HJPp13PlB0uCFexfYg',
   CSV: 'https://docs.google.com/spreadsheets/d/1pl7qzIDsJKbphDnttGxdPnezsv_x65vBhflATXVacDo/gviz/tq?tqx=out:csv&sheet=Sheet1',
   center: [5.524,50.928],
   zoom: 12,
