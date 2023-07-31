@@ -10,7 +10,7 @@ config = {
   tabTitle: "Gebiedsprogramma Poort-Genk",
   // sidebar.js
   title: 'Gebiedsprogramma\nPoort-Genk',
-  description: 'Aan te vullen',
+  description: '',
   sideBarInfo: ['HuidigeTitel'],
   // legende.js
   legende: {
